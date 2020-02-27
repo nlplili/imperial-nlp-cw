@@ -8,3 +8,8 @@ This repository contains all the code and the instructions to replicate the resu
 2. Run ```jupyter notebook``` and open ```NLP_models_features.ipynb```
 3. Execute the cells in order to replicate the performance achieved in the test set.
 
+
+# Structure
+
+- ```NLP_models_features.ipynb``` contains the code used to generate our top performing submission.
+- ```this_other_file.ipynb``` contains the code for creating an LSTM model and performs parameter tuning. However, the top performing result for this method was 0.0872.
