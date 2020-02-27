@@ -13,6 +13,6 @@ This repository contains all the code and the instructions to replicate the resu
 
 - ```NLP_models_features.ipynb``` contains the code used to generate our top performing submission.
 - ```this_other_file.ipynb``` contains the code for creating an LSTM model and performs parameter tuning. However, the top performing result for this method was 0.0872.
--  The `Google API` folder contains two sub-folders `Translations` and `Scores`. 
+-  The `Google API` folder contains two sub-folders `Translations` and `Similarities`. 
     -  The `Translations` folder contains the translated text for each sentence in the training set, using an adhoc script.
     -  The `Similarities` folder has a value for each sentence, describing how close the two translations are. The exact method used is detailed in Section 4.2 of the report. 
